@@ -1,0 +1,10 @@
+Recommended GitHub structure:
+/
+├─ README_PROJECT.md
+├─ business_analytics_dataset.csv
+├─ analysis.py
+├─ sql_queries.sql
+├─ powerbi/                (Power BI pbix files and export images)
+│   └─ dashboard.pbix
+└─ assets/
+   └─ images/
